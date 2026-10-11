@@ -2,7 +2,7 @@ const metroLines = [
     {
         id: "L1",
         name: "Blue Line",
-        color: "#00a8ff",
+        color: "#00a8ff", 
         stations: [
             { code: "KDSW", name: "Dakshineswar", elevated: true }, 
             { code: "KBAR", name: "Baranagar", elevated: true }, 
