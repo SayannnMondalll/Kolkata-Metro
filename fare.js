@@ -6,7 +6,7 @@ const metroLines = [
         stations: [
             { code: "KDSW", name: "Dakshineswar", elevated: true }, 
             { code: "KBAR", name: "Baranagar", elevated: true }, 
-            { code: "KNAP", name: "Noapara", elevated: true },
+            { code: "KNAP", name: "Noapara", elevated: true }, 
             { code: "KDMI", name: "Dum Dum", elevated: true }, 
             { code: "KBEL", name: "Belgachia" }, 
             { code: "KSHY", name: "Shyambazar" },
